@@ -1,0 +1,131 @@
+{
+  "seller": [
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 1
+    },
+    {
+      "name": "Arjit ",
+      "password": "Ishu@1234",
+      "email": "arjitchaturvedi.12@gmail.com",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "name": "Silvasa 0",
+      "price": "550",
+      "category": "Perfume",
+      "color": "white",
+      "description": "best one",
+      "image": "https://images.unsplash.com/photo-1523293182086-7651a899d37f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cGVyZnVtZXxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+      "id": 1
+    },
+    {
+      "name": "Silvasa 3",
+      "price": "50000",
+      "category": "Laptop",
+      "color": "black",
+      "description": "best perfume",
+      "image": "https://img.freepik.com/free-vector/perfume-glass-bottle-blue-silk-folded-fabric_33099-1928.jpg",
+      "id": 3
+    },
+    {
+      "name": "silvasa 4",
+      "price": "3000",
+      "category": "Shoes",
+      "color": "Black",
+      "description": "Best perfume",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfV1zJdDIWwNF7fVtmF8FZ2u4wjF79jwG0VqP-muW-ug&s",
+      "id": 4
+    },
+    {
+      "name": "Silvasa 1",
+      "price": "5000",
+      "category": "Perfume",
+      "color": "blue",
+      "description": "Best Silvassa perfume",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmKW81f9Xyc2GKQGRt2nuekJqfkRnjcJo-Y874_E4Y_A&s",
+      "id": 5
+    },
+    {
+      "name": "Noise Smart Watch",
+      "price": "2000",
+      "category": "Watch",
+      "color": "Black",
+      "description": "best for man and women both",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfV1zJdDIWwNF7fVtmF8FZ2u4wjF79jwG0VqP-muW-ug&s",
+      "id": 7
+    },
+    {
+      "name": "Silvasa 5",
+      "price": "100",
+      "category": "Perfume",
+      "color": "white",
+      "description": "test",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfV1zJdDIWwNF7fVtmF8FZ2u4wjF79jwG0VqP-muW-ug&s",
+      "id": 8
+    }
+  ],
+  "users": [
+    {
+      "name": "anil",
+      "email": "anil@user.com",
+      "password": "abc123",
+      "id": 1
+    }
+  ],
+  "cart": [],
+  "orders": [
+    {
+      "email": "ashishmisraji3@gmail.com",
+      "address": "KHADINI SAURIKH KANNAUJ PIN 209728",
+      "contact": "07380713199",
+      "totalPrice": 50100,
+      "userId": 1,
+      "id": 5
+    },
+    {
+      "email": "ashishmisraji3@gmail.com",
+      "address": "KHADINI SAURIKH KANNAUJ PIN 209728",
+      "contact": "07380713199",
+      "totalPrice": 53100,
+      "userId": 1,
+      "id": 6
+    },
+    {
+      "email": "ashishmisraji3@gmail.com",
+      "address": "KHADINI SAURIKH KANNAUJ PIN 209728",
+      "contact": "07380713199",
+      "totalPrice": 56400,
+      "userId": 1,
+      "id": 7
+    },
+    {
+      "email": "ashishmisraji3@gmail.com",
+      "address": "KHADINI SAURIKH KANNAUJ PIN 209728",
+      "contact": "07380713199",
+      "totalPrice": 3100,
+      "userId": 1,
+      "id": 8
+    },
+    {
+      "email": "ashishmisraji3@gmail.com",
+      "address": "KHADINI SAURIKH KANNAUJ PIN 209728",
+      "contact": "07380713199",
+      "totalPrice": 50100,
+      "userId": 1,
+      "id": 9
+    },
+    {
+      "email": "ashishmisraji3@gmail.com",
+      "address": "KHADINI SAURIKH KANNAUJ PIN 209728",
+      "contact": "07380713199",
+      "totalPrice": 3100,
+      "userId": 1,
+      "id": 10
+    }
+  ]
+}
